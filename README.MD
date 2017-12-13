@@ -31,13 +31,11 @@ http://armory.twinstar.cz/talent-calc.php?cid=7&d=vanilla&tal=000000000000000500
 
 The most basic and straight forward spec you can go is 0/5/46. You get lots of bonuses to your healing and mana efficiency, which shamans desperately need. The last 2 points of this spec could also go in several places. I usually put them in Healing Grace, but some put them into Guardian Totems, or Improved Reincarnation. Improved Reincarnation and Totem of Rebirth combined is 20 minutes off Reincarnation, which can be extremely useful when your guild is progressing through new content.
 
-### Imp Weapon Totems Spec
+### Improved Weapon Totems Spec
 
 http://armory.twinstar.cz/talent-calc.php?cid=7&d=vanilla&tal=0000000000000005025002105020000050350510050140
 
 If you're Chain Healing 90% of the time, you don't really need Improved Healing Wave or Healing Way. And with the extra sacrifice of not having Mana Tide, you can significantly improve your totems for melee. Also, this spec allows you to be a Nightfall or Annihilator bitch. In **&lt;ONSLAUGHT&gt;**, every healing shaman went this spec because of this simple philosophy: If things die quicker, there is less need for mana efficiency. However, if your guild takes 5+ minutes to kill a boss, you probably want Mana Tide Totem.
-
-## Stat Focus
 
 ## Enchants
 
@@ -52,6 +50,17 @@ If you're Chain Healing 90% of the time, you don't really need Improved Healing 
 
 \*If ZG is released, go for the shaman-specific enchant (Vodouisant's Vigilant Embrace) rather than the Libram enchants for helm and legs
 
+## Consumables
+
+## Stat Focus
+
+I will go more into this in the theorycrafting section, but the main thing you should look for in stats is MP5, +Healing, and Intellect (generally in that order). Spirit does absolutely nothing for Shaman. Shaman don't get talents that let your mana regenerate while casting, so spirit is just a wasted stat.
+
+The general formula I've followed is:
+
+`+11 healing = +7 int = +1 mp5`
+
+The shorter or longer a fight is obviously affects this formula, but I've used it to know which pieces of gear are more valuable than others. This formula also influences the gear recommendations I make below.
 
 ## Gear
 
@@ -59,9 +68,66 @@ I've added alternatives to each set of gear because in some cases you may not ne
 
 ### Pre-Raid BIS
 
+Item | Location | Name
+---- | -------- | ----
+**Weapon**  | |
+**Offhand** | |
+**Helm** | |
+**Neck** | |
+**Shoulders** | |
+**Back** | |
+**Chest** | |
+**Bracers** | |
+**Gloves** | |
+**Belt** | |
+**Pants** | |
+**Boots** | |
+**Ring 1** | |
+**Ring 2** | |
+**Trinket 1** | |
+**Trinket 2** | |
+
 ### Pre-BWL BIS
 
+Item | Location | Name
+---- | -------- | ----
+**Weapon**  | |
+**Offhand** | |
+**Helm** | |
+**Neck** | |
+**Shoulders** | |
+**Back** | |
+**Chest** | |
+**Bracers** | |
+**Gloves** | |
+**Belt** | |
+**Pants** | |
+**Boots** | |
+**Ring 1** | |
+**Ring 2** | |
+**Trinket 1** | |
+**Trinket 2** | |
+
 ### Pre-AQ BIS
+
+Item | Location | Name
+---- | -------- | ----
+**Weapon**  | |
+**Offhand** | |
+**Helm** | |
+**Neck** | |
+**Shoulders** | |
+**Back** | |
+**Chest** | |
+**Bracers** | |
+**Gloves** | |
+**Belt** | |
+**Pants** | |
+**Boots** | |
+**Ring 1** | |
+**Ring 2** | |
+**Trinket 1** | |
+**Trinket 2** | |
 
 ### Pre-Naxx BIS
 
@@ -69,26 +135,78 @@ I've added alternatives to each set of gear because in some cases you may not ne
 
 Item | Location | Name
 ---- | -------- | ----
-**Weapon**  | C'thun | Scepter of the False Prophet  
-**Offhand** | Ouro | Wormscale Blocker  
-**Helm** | Emperor Vek'lor | Stormcaller's Diadem  
-**Neck** | C'thun | Amulet of the Fallen God  
-**Shoulders** | | Stormcaller's Pauldrons  
-**Back** | C'thun | Cloak of Clarity  
-**Chest** | | Stormcaller's Hauberk  
-**Bracers** | | Bracers of Ten Storms  
+**Weapon**  | C'thun | Scepter of the False Prophet
+**Offhand** | Ouro | Wormscale Blocker
+**Helm** | Emperor Vek'lor | Stormcaller's Diadem
+**Neck** | C'thun | Amulet of the Fallen God
+**Shoulders** | | Stormcaller's Pauldrons
+**Back** | C'thun | Cloak of Clarity
+**Chest** | | Stormcaller's Hauberk
+**Bracers** | | Bracers of Ten Storms
 **Gloves** | | Gauntlets of Ten Storms  
-**Belt** | | Belt of Ten Storms  
-**Pants** | | Stormcaller's Leggings  
-**Boots** | | Stormcaller's Footguards  
-**Ring 1** | | Ring of the Martyr  
-**Ring 2** | Nefarian | Pure Elementium Band  
-**Trinket 1** | | Rejuvenating Gem  
+**Belt** | | Belt of Ten Storms
+**Pants** | | Stormcaller's Leggings
+**Boots** | | Stormcaller's Footguards
+**Ring 1** | | Ring of the Martyr
+**Ring 2** | Nefarian | Pure Elementium Band
+**Trinket 1** | | Rejuvenating Gem
 **Trinket 2** | Onyxia | Shard of the Scale
 
 ## Totems
 
+### Earth Totems
+
+#### Strength of Earth
+A decent DPS boost for the melee in your group. It is worth about half as much Attack Power as a Battle Shout, so probably not a HUGE priority. However, I keep SoE down as often as Windfury. Your typical flow should be **1st GCD: Cast WF, 2nd GCD: Cast SoE**. I've always left it up to Priests and Druids to keep tanks up for the first few seconds of every boss fight. Use that time to set up all the totems you'll need.
+
+#### Earthbind
+Not many things in raids are affected by Earthbind, but the ones that are, Earthbind can be a good option. Most pulls that come with a lot of adds, it can be a good idea to lay it down. It helps tanks pick up those adds that might start chasing after casters.
+
+#### Stoneskin
+Fairly useless. Unless a warrior in your group has just done Challenging Shout and has 20+ adds on him, don't bother casting it. Use Strength of Earth instead. If your in a caster group, I wouldn't bother putting down an earth totem.
+
+### Wind Totems
+
+#### Windfury
+As mentioned before, **Windfury is the best** and it should always be down if there are melee in your group.
+
+#### Grounding
+There are some boss mechanics that are affected by Grounding, depending on the server scripting. It is meant to redirect single target spells, so things like Lucifron's Mind Control should be able to be grounded. Often times, it may be more worth it to just have Windfury down.
+
+#### Wind Wall
+The entire time I played vanilla, I didn't even have this on my bars. Don't even bother.
+
+#### Nature Resistance
+Only really useful in situations where people take a lot of nature damage. Bosses in AQ40 like Huhuran and Viscidous are good examples of when Nature Resistance might be a better option than Windfury
+
+#### Grace of Air
+Sometimes you'll have 2 shamans in a group and one of you can use Grace while the other can do Windfury. Maybe you're in a group with all hunters. Otherwise, stick to Windfury for your air totem. If there is a rogue in your group that is asking you for Grace instead of Windfury, he is dumb and tell him so. Rogue poisons don't stack with WF, so maybe that is the reason, but they are still dumb for putting poisons on in a raid. The small amount of crit and AP from Grace is nothing compared to the overall DPS gain from Windfury.
+
+### Water Totems
+
+#### Mana Spring
+Not all its hyped up to be. If you have the talents for it, Mana Spring provides about 360 mana in total and costs 75 mana. That's not much to be gained unless you have others in your group with mana bars. If you're struggling with mana, it is good to keep down, and unless the people in your group are reaching their buff limit, it wouldn't hurt. A full minute of Mana Spring could potentially mean enough extra mana for 1-2 extra Chain Heals.
+
+#### Mana Tide
+Use it as often as you can. It provides a decent amount of extra mana, and can be pretty helpful in long fights. If you know your mana pool has to last for longer than 5 minutes, make sure to lay it down early in a fight so you have time to cast it again. A typical rotation I like to do is start a boss fight with Mana Spring, and when it expires, switch to Mana Tide, then back to Mana Spring.
+
+#### Healing Stream
+Your most efficient heal potentially doing ~1500 healing to 5 people for very little mana. "Potentially" being the keyword, however. Very few occasions will all 5 people in your group be taking damage and never will it be the reason for someone living or dying. Although, I think it does more healing per mana than having a Mana Spring totem down, so this is usually my go-to water totem. A bit I like to do to really cheese healing numbers is use a Zandalarian Hero Charm before setting down the Healing Stream. It benefits from your +healing, so you can significantly increase the amount it pulses for by using a trinket. Also something to note, Healing Stream generates its own threat, so it can be used to force caster adds around corners for better positioning. It might also mean it gets destroyed without you realizing it.
+
+#### Fire Resistance
+This is an excellent choice for all of MC and BWL. There is a lot of fire damage from both the trash and bosses in the first two raids. Fire Resistance can be a better choice than Healing Stream because it could potentially save someones life. Resisting 1500 damage from a big fire spell is much more valuable than that same amount done as healing over 60 seconds.
+
+### Fire Totems
+
+#### Searing
+#### Fire Nova
+#### Magma
+#### Flametongue
+#### Frost Resistance
+
 ### Pulse Totems
+
+### Totem Twisting
 
 ## Heals
 
@@ -102,7 +220,7 @@ Item | Location | Name
 
 **&lt;ONSLAUGHT&gt;** - This guild was awesome and I had a great time playing with everyone.
 
-**Wxn** and **Massivebenis** - For constantly beating my healing records.
+**Wxn** and **Massivebenis** - For constantly beating my healing records so that I'd have to develop new strategies.
 
 **Gametime** - For giving me shit for laying down Healing Stream instead of Fire Resist Totem.
 
