@@ -48,9 +48,18 @@ If you're Chain Healing 90% of the time, you don't really need Improved Healing 
 **Legs** - +8 damage and healing, or +150 Mana\*  
 **Shoulders** - +33 Healing (if ZG is released), or +31 Healing and +5 MP5 (if Naxx is released)  
 
-\*If ZG is released, go for the shaman-specific enchant (Vodouisant's Vigilant Embrace) rather than the Libram enchants for helm and legs
+\*If ZG is released, go for the shaman-specific enchant [Vodouisant's Vigilant Embrace] rather than the Libram enchants for helm and legs
 
 ## Consumables
+
+[Flask of Distilled Wisdom] - +2000 mana  
+[Nighfin Soup] - +8 MP5  
+[Sagefish Delight] - +6 MP5 (This may or may not stack with [Nightfin Soup])  
+[Mageblood Potion] - +12 MP5 (if ZG is out)  
+[Cerebral Cortex Compound] - +25 Int  
+[Major Mana Potion]  
+[Demonic Rune] or [Dark Rune]  
+[Lesser Mana Oil] or [Brilliant Mana Oil] (if ZG is out)  
 
 ## Stat Focus
 
