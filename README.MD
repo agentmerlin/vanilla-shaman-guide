@@ -29,7 +29,7 @@ An alternate role you can play is stacking weapon debuffs for the DPS. If no one
 
 http://armory.twinstar.cz/talent-calc.php?cid=7&d=vanilla&tal=0000000000000005000000000000000550350512553151
 
-The most basic and straight forward spec you can go is 0/5/46. You get lots of bonuses to your healing and mana efficiency, which shamans desperately need. The last 2 points of this spec could also go in several places. I usually put them in Healing Grace, but some put them into Guardian Totems, or Improved Reincarnation. Improved Reincarnation and Totem of Rebirth combined is 20 minutes off Reincarnation, which can be extremely useful when your guild is progressing through new content.
+The most basic and straight forward spec you can go is 0/5/46. You get lots of bonuses to your healing and mana efficiency, which shamans desperately need. The last 2 points of this spec could also go in several places. I usually put them in Healing Grace, but some put them into Guardian Totems, or Improved Reincarnation. Improved Reincarnation and [Totem of Rebirth] combined is 20 minutes off Reincarnation, which can be extremely useful when your guild is progressing through new content.
 
 ### Improved Weapon Totems Spec
 
@@ -64,93 +64,120 @@ The shorter or longer a fight is obviously affects this formula, but I've used i
 
 ## Gear
 
-I've added alternatives to each set of gear because in some cases you may not need as much MP5, and if you're a pro, you'll switch to higher +healing gear before a quick boss fight.
+I've added alternatives to each set of gear because in some cases you may not need as much MP5, and if you're a pro, you'll switch to higher +healing gear before quick boss fights.
 
 ### Pre-Raid BIS
 
-Item | Location | Name
----- | -------- | ----
-**Weapon**  | |
-**Offhand** | |
-**Helm** | |
-**Neck** | |
-**Shoulders** | |
-**Back** | |
-**Chest** | |
-**Bracers** | |
-**Gloves** | |
-**Belt** | |
-**Pants** | |
-**Boots** | |
-**Ring 1** | |
-**Ring 2** | |
-**Trinket 1** | |
-**Trinket 2** | |
+Slot | Name
+---- | ----
+**Weapon** | [The Hammer of Grace] or [Hammer of Revitalization] or [Cold Forged Hammer]
+**Offhand** | [Lei of Lifegiver] or [Gizlock's Hypertech Buckler]
+**Helm** | [Sanctified Leather Helm] or [Cassandra's Grace]
+**Neck** | [Tooth of Gnarr] or [Animated Chain Necklace]
+**Shoulders** | [Mantle of Lost Hope]
+**Back** | [Hide of the Wild]
+**Chest** | [Robes of the Exalted] or [Mindsurge Robe]
+**Bracers** | [Loomguard Armbraces]
+**Gloves** | [Harmonious Gauntlets]
+**Belt** | [Whipvine Cord]
+**Pants** | [Padre's Trousers]
+**Boots** | [Faith Healer's Boots]
+**Ring 1** | [Fordring's Seal] or [Band of Piety]
+**Ring 2** | [Rosewine Circle]
+**Trinket 1** | [Mindtap Talisman] or [Briarwood Reed]
+**Trinket 2** | [Mindtap Talisman]
 
 ### Pre-BWL BIS
+It is also worth noting that 8/8 Tier 1 is also a decent option. The 5/8 set bonus stacks with the 8/8 set bonus allowing your mana to last for a long time while casting down-ranked Healing Waves.
 
-Item | Location | Name
----- | -------- | ----
-**Weapon**  | |
-**Offhand** | |
-**Helm** | |
-**Neck** | |
-**Shoulders** | |
-**Back** | |
-**Chest** | |
-**Bracers** | |
-**Gloves** | |
-**Belt** | |
-**Pants** | |
-**Boots** | |
-**Ring 1** | |
-**Ring 2** | |
-**Trinket 1** | |
-**Trinket 2** | |
+Slot | Name
+---- | ----
+**Weapon** | [Aurastone Hammer] or [Jin'do's Hexxer] or [Fang of the Mystics]
+**Offhand** | [Lei of Lifegiver] or [Malistar's Defender]
+**Helm** | [Helm of the Lifegiver] or [Crystal Adorned Crown]
+**Neck** | [Jin'do's Evil Eye] or [Wavefront Necklace]
+**Shoulders** | [Wild Growth Spaulders]
+**Back** | [Hide of the Wild]
+**Chest** | [Robes of the Exalted] or [Mindsurge Robe]
+**Bracers** | [Loomguard Armbraces] or [Flarecore Wraps]
+**Gloves** | [Harmonious Gauntlets]
+**Belt** | [Whipvine Cord] or [Corehound Belt]
+**Pants** | [Salamander Scale Pants]
+**Boots** | [Faith Healer's Boots]
+**Ring 1** | [Cauterizing Band] or [Band of Piety]
+**Ring 2** | [Cauterizing Band]
+**Trinket 1** | [Mindtap Talisman] or [Briarwood Reed]
+**Trinket 2** | [Shard of the Scale]
 
 ### Pre-AQ BIS
+You'll definitely want the 3/8 Tier 2 bonus. It adds a ton of extra healing to your Chain Heals, and your spamming the hell out of them already.
 
-Item | Location | Name
----- | -------- | ----
-**Weapon**  | |
-**Offhand** | |
-**Helm** | |
-**Neck** | |
-**Shoulders** | |
-**Back** | |
-**Chest** | |
-**Bracers** | |
-**Gloves** | |
-**Belt** | |
-**Pants** | |
-**Boots** | |
-**Ring 1** | |
-**Ring 2** | |
-**Trinket 1** | |
-**Trinket 2** | |
+Slot | Name
+---- | ----
+**Weapon**  | [Claw of Cromaggus] or [Lok'amir il Romathis]
+**Offhand** | [Red Dragonscale Protector] or [Malistar's Defender]
+**Helm** | [Helmet of Ten Storms]
+**Neck** | [Jin'do's Evil Eye] or [Wavefront Necklace]
+**Shoulders** | [Wild Growth Spaulders]
+**Back** | [Shroud of Pure Thought]
+**Chest** | [Robes of the Exalted] or [Mindsurge Robe]
+**Bracers** | [Bracers of Ten Storms]
+**Gloves** | [Gauntlets of Ten Storms]
+**Belt** | [Whipvine Cord] or [Corehound Belt]
+**Pants** | [Salamander Scale Pants]
+**Boots** | [Boots of Pure Thought] or [Shimmering Geta]
+**Ring 1** | [Ring of Blackrock]
+**Ring 2** | [Pure Elementium Band]
+**Trinket 1** | [Rejuvenating Gem]
+**Trinket 2** | [Shard of the Scale]
 
 ### Pre-Naxx BIS
 
+Slot | Name
+---- | ----
+**Weapon**  | [Scepter of the False Prophet]
+**Offhand** | [Wormscale Blocker]
+**Helm** | [Don Rigoberto's Lost Hat]
+**Neck** | [Amulet of the Fallen God]
+**Shoulders** | [Wild Growth Spaulders]
+**Back** | [Cloak of Clarity]
+**Chest** | [Robes of the Guardian Saint]
+**Bracers** | [Bracelets of Royal Redemption]
+**Gloves** | [Gloves of the Messiah] or [Wasphide Gauntlets]
+**Belt** | [Grasp of the Old God]
+**Pants** | [Salamander Scale Pants]
+**Boots** | [Boots of Pure Thought] or [Shimmering Geta]
+**Ring 1** | [Ring of the Martyr]
+**Ring 2** | [Ring of the Devoured]
+**Trinket 1** | [Rejuvenating Gem]
+**Trinket 2** | [Shard of the Scale]
+
 **Chain Heal Set** - This set is specifically for Chain Healing. The Tier 2 + Tier 2.5 sets together lets you output a ton of healing. The set bonuses are what make this set great, so unless you have 5/5 Tier 2.5 and 3/8 Tier 2, I wouldn't bother wearing the T2.5.
 
-Item | Location | Name
----- | -------- | ----
-**Weapon**  | C'thun | Scepter of the False Prophet
-**Offhand** | Ouro | Wormscale Blocker
-**Helm** | Emperor Vek'lor | Stormcaller's Diadem
-**Neck** | C'thun | Amulet of the Fallen God
-**Shoulders** | | Stormcaller's Pauldrons
-**Back** | C'thun | Cloak of Clarity
-**Chest** | | Stormcaller's Hauberk
-**Bracers** | | Bracers of Ten Storms
-**Gloves** | | Gauntlets of Ten Storms  
-**Belt** | | Belt of Ten Storms
-**Pants** | | Stormcaller's Leggings
-**Boots** | | Stormcaller's Footguards
-**Ring 1** | | Ring of the Martyr
-**Ring 2** | Nefarian | Pure Elementium Band
-**Trinket 1** | | Rejuvenating Gem
-**Trinket 2** | Onyxia | Shard of the Scale
+Slot | Name
+---- | ----
+**Weapon**  | [Scepter of the False Prophet]
+**Offhand** | [Wormscale Blocker]
+**Helm** | [Stormcaller's Diadem]
+**Neck** | [Amulet of the Fallen God]
+**Shoulders** | [Stormcaller's Pauldrons]
+**Back** | [Cloak of Clarity]
+**Chest** | [Stormcaller's Hauberk]
+**Bracers** | [Bracers of Ten Storms]
+**Gloves** | [Gauntlets of Ten Storms]
+**Belt** | [Belt of Ten Storms]
+**Pants** | [Stormcaller's Leggings]
+**Boots** | [Stormcaller's Footguards]
+**Ring 1** | [Ring of the Martyr]
+**Ring 2** | [Ring of the Devoured]
+**Trinket 1** | [Rejuvenating Gem]
+**Trinket 2** | [Shard of the Scale]
+
+### Totem Relic
+[Totem of Sustaining] **is a pre-raid must**. You will use it all the way until AQ40 when you switch it for [Totem of Life]. [Totem of Rebirth] is also a good option. As mentioned before, combining it with the Improved Reincarnation talent is useful when your dying a lot during raid progression.
+
+### Trinkets
+There are several good trinkets beyond the passive ones I listed. [Scarab Brooch] from AQ40, [Zandalarian Hero Charm] from ZG, and [Natural Alignment Crystal] from BWL are good for pumping out a lot of healing quickly. Some of my highest HPS records I have were thanks to [Natural Alignment Crystal]. Just make sure to swap your trinkets when the cooldowns are running.
 
 ## Totems
 
