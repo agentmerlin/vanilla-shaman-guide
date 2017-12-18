@@ -259,12 +259,24 @@ If for whatever reason you can't have Windfury down, you could use this instead.
 Not many raids have frost damage. Other than in Naxx, you probably wont use this at all.
 
 ### Pulse Totems
+Pulse Totems include things like Poison Cleansing, Tremor, and Windfury. Because of the pulse, they are affected by line-of-sight, so always make sure your totems are placed correctly. Another point about pulse totems is that some players "set-and-forget" things like Tremor and Cleansing totems. Get that out of your head! If you see someone feared, cast a new totem. Think of it like casting Decurse or Dispell. Mages and Priests don't rely on spells being auto-cleansed and neither should you.
 
 ### Totem Twisting
+Since Windfury applies a 10 second buff, there is a window of time where your group can have both Windfury and Grace of Air. The basic strategy is to cast Windfury, then immediately Grace of Air, and before WF times out, do the process over again. Totem twisting like this take a lot of time that could be spent casting heals, so it isn't for every occasion, but your melee will love you for it. The rotation I use is `WF + GoA + Chain Heal + Chain Heal`. You might have enough time to get a third Chain Heal in before WF expires, but I tend to stick with 2 because of latency.
 
 ## Heals
 
-## Theorycrafting
+### Chain Heal
+As mentioned before, Chain Heal is your bread and butter in raids. No other healer can do as much AoE healing as Shamans can. Priests and Druids can out-heal an Shaman in a single-target healing scenario, but Shamans excel at AoE healing. Rank 1 Chain Heal is also a particularly efficient heal. Without chaining to anyone, it is still about as efficient as a Rank 4 Lesser Healing Wave. With the Tier 2 3/8 piece bonus, Chain Heal can be your most efficient heal. So spam the crap out of that Rank 1 Chain Heal. I make sure to have all 3 ranks of Chain Heal available and bound to different keys. It makes it much easier to switch between the different ranks as the raid is taking more or less damage than normal.
+
+### Lesser Healing Wave
+Decent single-target heal. It has a quick cast time so you are less susceptible to your heals being 100% overhealing. The only relic available to you pre-raid, [Totem of Sustaining], also improves LHW. Rank 1 LHW also has the lowest mana cost while still providing decent healing. Max Rank LWH is also the best option for keeping someone alive that is taking a lot of damage. It may not be the highest HPS, but a tank is more likely to die while you are casting a slow heal.
+
+### Healing Wave
+If you are specced into Healing Way, Rank 5 Healing Wave is the MOST efficient heal you have. You can last for a long time only casting that. Rank 1 is useful for pre-stacking Healing Way before a fight starts as well. I usually save Max Rank Healing Wave for Nature's Swiftness. I don't ever sit and cast a Max Rank. The major downside of Healing Wave is that it suffers from a long cast time. In my experience, someone else has already healed my target before I get the cast off. Because of this, I've always stuck with Chain Heal for multi-target healing and LHW for single-target healing.
+
+## Keybindings
+You should have nearly all your totems keybound. Everything on the left side of your keyboard should be available for keybinding and be sure to make use of the Shift and Alt modifiers as well. For example, my keybindings for WF and SoE were `Shift+Q` and `Shift+E` respectively. If you have numbers on your mouse, make sure to use those too. The mouse I used has numbers from 1-12 and all of them (including Shift modifiers) were bound to a different totem spell. Your cleansing totems should be instant, and there is no way it'll be that way if you're clicking your spells.
 
 ## Credits
 
