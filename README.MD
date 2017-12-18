@@ -201,6 +201,9 @@ Not many things in raids are affected by Earthbind, but the ones that are, Earth
 #### Stoneskin
 Fairly useless. Unless a warrior in your group has just done Challenging Shout and has 20+ adds on him, don't bother casting it. Use Strength of Earth instead. If your in a caster group, I wouldn't bother putting down an earth totem.
 
+#### Tremor
+One of the few advantages Horde has over the Alliance in Vanilla. If you can time your totem placement in time with a fear mechanic, the pulse will happen as soon as the fear does. The ability for a raid to immediately break all melee out of fear on a fight like Nefarian is hugely beneficial. Your ability to break fears is the easiest way for everyone to know how much you are paying attention. Everyone will see you running around feared because you forgot to Tremor, so pay attention!
+
 ### Wind Totems
 
 #### Windfury
@@ -232,13 +235,28 @@ Your most efficient heal potentially doing ~1500 healing to 5 people for very li
 #### Fire Resistance
 This is an excellent choice for all of MC and BWL. There is a lot of fire damage from both the trash and bosses in the first two raids. Fire Resistance can be a better choice than Healing Stream because it could potentially save someones life. Resisting 1500 damage from a big fire spell is much more valuable than that same amount done as healing over 60 seconds.
 
+#### Poison Cleansing
+Great for cleansing a lot of people quickly. It is another great advantage Horde has over Alliance in Vanilla. Just make sure to not "set-and-forget". The pulse of this totem shouldn't be relied on in raids. You should be instantly recasting this totem as soon as a new poison happens. The cleansing will happen a lot quicker and result in having less damage going out to the raid.
+
+#### Disease Cleansing
+Pretty much the same as Poison Cleansing. There are a lot fewer cases that require Disease Cleansing, but Chromaggus is one that you should be ready for.
+
 ### Fire Totems
 
 #### Searing
+Some boss strategies involve sheeping mind controlled people and Searing Totem has been known to break sheeps. A lot of things in MC and BWL also have high fire resistance or are outright immune to it. Because of those two reasons, don't bother with Searing Totem.
+
 #### Fire Nova
+Sometimes a good option for large groups of mobs. However, if another target doesn't have threat, mobs may go after the totem before it goes off.
+
 #### Magma
+Much of the same strategy as Fire Nova, but it costs a lot more mana. I tend to favor Fire Nova because of the mana cost.
+
 #### Flametongue
+If for whatever reason you can't have Windfury down, you could use this instead. A good example might be if you are using Nature Resistance for your wind totem on a particular boss. I have yet to run the numbers on if using Flametongue over Windfury is a viable option on a fire vulnerability for Chromaggus. I highly doubt it though.
+
 #### Frost Resistance
+Not many raids have frost damage. Other than in Naxx, you probably wont use this at all.
 
 ### Pulse Totems
 
