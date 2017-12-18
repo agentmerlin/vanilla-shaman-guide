@@ -92,7 +92,7 @@ I will go more into this in the theorycrafting section, but the main thing you s
 
 The general formula I've followed is:
 
-`+11 healing = +7 int = +1 mp5`
+`+11 healing = +5 int = +1 mp5`
 
 The shorter or longer a fight is obviously affects this formula, but I've used it to know which pieces of gear are more valuable than others. This formula also influences the gear recommendations I make below.
 
