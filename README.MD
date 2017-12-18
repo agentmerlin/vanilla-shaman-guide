@@ -1,5 +1,30 @@
 # Jelly's Vanilla Resto Shaman Guide
 
+## Table of Contents
+- [Intro](#intro)
+- [Your Role in Raids](#your-role-in-raids)
+- [Talents](#talents)
+	- [Mana Tide Spec](#mana-tide-spec)
+	- [Improved Weapon Totems Spec](#improved-weapon-totems-spec)
+- [Enchants](#enchants)
+- [Consumables](#consumables)
+- [Stat Focus](#stat-focus)
+- [Gear](#gear)
+	- [Pre-Raid BIS](#pre-raid-bis)
+	- [Pre-BWL BIS](#pre-bwl-bis)
+	- [Pre-AQ BIS](#pre-aq-bis)
+	- [Pre-Naxx BIS](#pre-naxx-bis)
+	- [Totem Relic](#totem-relic)
+	- [Trinkets](#trinkets)
+- [Totems](#totems)
+	- [Earth Totems](#earth-totems)
+	- [Wind Totems](#wind-totems)
+	- [Water Totems](#water-totems)
+	- [Fire Totems](#fire-totems)
+- [Heals](#heals)
+- [Keybindings](#keybindings)
+- [Credits](#credits)
+
 ## Intro
 
 I have been playing on the Kronos 1 server for the past 2.5 years raiding with **&lt;ONSLAUGHT&gt;**. Since **&lt;ONSLAUGHT&gt;** recently broke up I decided to stop playing, but first wanted to give back to the community. As of writing this, I was rated the #1 Shaman healer on Kronos [by Kronos-Logs](http://kronos-logs.com/character_info/character/jelly), and hopefully with this guide, you too can pump out 1000+ HPS on boss fights.
