@@ -41,7 +41,7 @@ In a more general sense, the primary benefit of taking a Shaman to a raid is you
 
 ### Chain Heal
 
-Your last role is raid healer. Once all your totems are down, you'll be casting Chain Heal with zero down time. **Chain Heal, Chain Heal, Chain Heal**. Chain Heal comes with the added benefit of jumping to 2 other people that are missing health without you having to be conscious of anything. Even if no one seems to be taking damage, you should still be constantly casting. Think of healing like a Mage thinks about throwing fireballs; there should never be a time where you are standing still doing nothing. When no one seems to be taking damage, a lot of times I'll just chain heal the main tank and let the jumps heal melee. But if you want to top those healing meters, look at which parts of the raid are taking damage and throw Chain Heals at them. Even if people are only missing like 300 HP, throw a Chain Heal at them. You'll end up healing 3 people to full with very little overhealing. Priests and Druids are much better suited for tank healing because they have bubbles and HoTs, so let them have at it. With the Healing Way talent, Shamans could be good tank healers, but for the most part, you'll be Chain Healing 24/7.
+Your last role is raid healer. Once all your totems are down, you'll be casting Chain Heal with zero down-time. **Chain Heal, Chain Heal, Chain Heal**. Chain Heal comes with the added benefit of jumping to 2 other people that are missing health without you having to be conscious of anything. Even if no one seems to be taking damage, you should still be constantly casting. Think of healing like a Mage thinks about throwing fireballs; there should never be a time when you are standing still doing nothing. When no one seems to be taking damage, a lot of times I'll just chain heal the main tank and let the jumps heal melee. But if you want to top those healing meters, look at which parts of the raid are taking damage and throw Chain Heals at them. Even if people are only missing like 300 HP, throw a Chain Heal at them. You'll end up healing 3 people to full health with very little overhealing. Priests and Druids are much better suited for tank healing because they have bubbles and HoTs, so let them have at it. With the Healing Way talent, Shamans could be good tank healers, but for the most part, you'll be Chain Healing 24/7.
 
 ### Annihilator or Nightfall
 
@@ -52,13 +52,13 @@ An alternate role you can play is stacking weapon debuffs for the DPS. If no one
 
 ### Mana Tide Spec
 
-http://armory.twinstar.cz/talent-calc.php?cid=7&d=vanilla&tal=0000000000000005000000000000000550350512553151
+https://www.wowhead.com/classic/talent-calc/shaman/-5-550350512553151
 
 The most basic and straight forward spec you can go is 0/5/46. You get lots of bonuses to your healing and mana efficiency, which shamans desperately need. The last 2 points of this spec could also go in several places. I usually put them in Healing Grace, but some put them into Guardian Totems, or Improved Reincarnation. Improved Reincarnation and [Totem of Rebirth] combined is 20 minutes off Reincarnation, which can be extremely useful when your guild is progressing through new content.
 
 ### Improved Weapon Totems Spec
 
-http://armory.twinstar.cz/talent-calc.php?cid=7&d=vanilla&tal=0000000000000005025002105020000050350510050140
+https://wowhead.com/classic/talent-calc/shaman/-502500210502-05035051005014
 
 If you're Chain Healing 90% of the time, you don't really need Improved Healing Wave or Healing Way. And with the extra sacrifice of not having Mana Tide, you can significantly improve your totems for melee. Also, this spec allows you to be a Nightfall or Annihilator bitch. In **&lt;ONSLAUGHT&gt;**, every healing shaman went this spec because of this simple philosophy: If things die quicker, there is less need for mana efficiency. However, if your guild takes 5+ minutes to kill a boss, you probably want Mana Tide Totem.
 
@@ -102,116 +102,116 @@ I've added alternatives to each set of gear because in some cases you may not ne
 
 ### Pre-Raid BIS
 
-Slot | Name
----- | ----
-**Weapon** | [The Hammer of Grace] or [Hammer of Revitalization] or [Cold Forged Hammer]
-**Offhand** | [Lei of Lifegiver] or [Gizlock's Hypertech Buckler]
-**Helm** | [Sanctified Leather Helm] or [Cassandra's Grace]
-**Neck** | [Tooth of Gnarr] or [Animated Chain Necklace]
-**Shoulders** | [Mantle of Lost Hope]
-**Back** | [Hide of the Wild]
-**Chest** | [Robes of the Exalted] or [Mindsurge Robe]
-**Bracers** | [Loomguard Armbraces]
-**Gloves** | [Harmonious Gauntlets]
-**Belt** | [Whipvine Cord]
-**Pants** | [Padre's Trousers]
-**Boots** | [Faith Healer's Boots]
-**Ring 1** | [Fordring's Seal] or [Band of Piety]
-**Ring 2** | [Rosewine Circle]
-**Trinket 1** | [Mindtap Talisman] or [Briarwood Reed]
-**Trinket 2** | [Mindtap Talisman]
+| Slot          | Name                                                                        |
+|---------------|-----------------------------------------------------------------------------|
+| **Weapon**    | [The Hammer of Grace] or [Hammer of Revitalization] or [Cold Forged Hammer] |
+| **Offhand**   | [Lei of Lifegiver] or [Gizlock's Hypertech Buckler]                         |
+| **Helm**      | [Sanctified Leather Helm] or [Cassandra's Grace]                            |
+| **Neck**      | [Tooth of Gnarr] or [Animated Chain Necklace]                               |
+| **Shoulders** | [Mantle of Lost Hope]                                                       |
+| **Back**      | [Hide of the Wild]                                                          |
+| **Chest**     | [Robes of the Exalted] or [Mindsurge Robe]                                  |
+| **Bracers**   | [Loomguard Armbraces]                                                       |
+| **Gloves**    | [Harmonious Gauntlets]                                                      |
+| **Belt**      | [Whipvine Cord]                                                             |
+| **Pants**     | [Padre's Trousers]                                                          |
+| **Boots**     | [Faith Healer's Boots]                                                      |
+| **Ring 1**    | [Fordring's Seal] or [Band of Piety]                                        |
+| **Ring 2**    | [Rosewine Circle]                                                           |
+| **Trinket 1** | [Mindtap Talisman] or [Briarwood Reed]                                      |
+| **Trinket 2** | [Mindtap Talisman]                                                          |
 
 ### Pre-BWL BIS
 It is also worth noting that 8/8 Tier 1 is also a decent option. The 5/8 set bonus stacks with the 8/8 set bonus allowing your mana to last for a long time while casting down-ranked Healing Waves.
 
-Slot | Name
----- | ----
-**Weapon** | [Aurastone Hammer] or [Jin'do's Hexxer] or [Fang of the Mystics]
-**Offhand** | [Lei of Lifegiver] or [Malistar's Defender]
-**Helm** | [Helm of the Lifegiver] or [Crystal Adorned Crown]
-**Neck** | [Jin'do's Evil Eye] or [Wavefront Necklace]
-**Shoulders** | [Wild Growth Spaulders]
-**Back** | [Hide of the Wild]
-**Chest** | [Robes of the Exalted] or [Mindsurge Robe]
-**Bracers** | [Loomguard Armbraces] or [Flarecore Wraps]
-**Gloves** | [Harmonious Gauntlets]
-**Belt** | [Whipvine Cord] or [Corehound Belt]
-**Pants** | [Salamander Scale Pants]
-**Boots** | [Faith Healer's Boots]
-**Ring 1** | [Cauterizing Band] or [Band of Piety]
-**Ring 2** | [Cauterizing Band]
-**Trinket 1** | [Mindtap Talisman] or [Briarwood Reed]
-**Trinket 2** | [Shard of the Scale]
+| Slot          | Name                                                             |
+|---------------|------------------------------------------------------------------|
+| **Weapon**    | [Aurastone Hammer] or [Jin'do's Hexxer] or [Fang of the Mystics] |
+| **Offhand**   | [Lei of Lifegiver] or [Malistar's Defender]                      |
+| **Helm**      | [Helm of the Lifegiver] or [Crystal Adorned Crown]               |
+| **Neck**      | [Jin'do's Evil Eye] or [Wavefront Necklace]                      |
+| **Shoulders** | [Wild Growth Spaulders]                                          |
+| **Back**      | [Hide of the Wild]                                               |
+| **Chest**     | [Robes of the Exalted] or [Mindsurge Robe]                       |
+| **Bracers**   | [Loomguard Armbraces] or [Flarecore Wraps]                       |
+| **Gloves**    | [Harmonious Gauntlets]                                           |
+| **Belt**      | [Whipvine Cord] or [Corehound Belt]                              |
+| **Pants**     | [Salamander Scale Pants]                                         |
+| **Boots**     | [Faith Healer's Boots]                                           |
+| **Ring 1**    | [Cauterizing Band] or [Band of Piety]                            |
+| **Ring 2**    | [Cauterizing Band]                                               |
+| **Trinket 1** | [Mindtap Talisman] or [Briarwood Reed]                           |
+| **Trinket 2** | [Shard of the Scale]                                             |
 
 ### Pre-AQ BIS
 You'll definitely want the 3/8 Tier 2 bonus. It adds a ton of extra healing to your Chain Heals, and your spamming the hell out of them already.
 
-Slot | Name
----- | ----
-**Weapon**  | [Claw of Cromaggus] or [Lok'amir il Romathis]
-**Offhand** | [Red Dragonscale Protector] or [Malistar's Defender]
-**Helm** | [Helmet of Ten Storms]
-**Neck** | [Jin'do's Evil Eye] or [Wavefront Necklace]
-**Shoulders** | [Wild Growth Spaulders]
-**Back** | [Shroud of Pure Thought]
-**Chest** | [Robes of the Exalted] or [Mindsurge Robe]
-**Bracers** | [Bracers of Ten Storms]
-**Gloves** | [Gauntlets of Ten Storms]
-**Belt** | [Whipvine Cord] or [Corehound Belt]
-**Pants** | [Salamander Scale Pants]
-**Boots** | [Boots of Pure Thought] or [Shimmering Geta]
-**Ring 1** | [Ring of Blackrock]
-**Ring 2** | [Pure Elementium Band]
-**Trinket 1** | [Rejuvenating Gem]
-**Trinket 2** | [Shard of the Scale]
+| Slot          | Name                                                 |
+|---------------|------------------------------------------------------|
+| **Weapon**    | [Claw of Cromaggus] or [Lok'amir il Romathis]        |
+| **Offhand**   | [Red Dragonscale Protector] or [Malistar's Defender] |
+| **Helm**      | [Helmet of Ten Storms]                               |
+| **Neck**      | [Jin'do's Evil Eye] or [Wavefront Necklace]          |
+| **Shoulders** | [Wild Growth Spaulders]                              |
+| **Back**      | [Shroud of Pure Thought]                             |
+| **Chest**     | [Robes of the Exalted] or [Mindsurge Robe]           |
+| **Bracers**   | [Bracers of Ten Storms]                              |
+| **Gloves**    | [Gauntlets of Ten Storms]                            |
+| **Belt**      | [Whipvine Cord] or [Corehound Belt]                  |
+| **Pants**     | [Salamander Scale Pants]                             |
+| **Boots**     | [Boots of Pure Thought] or [Shimmering Geta]         |
+| **Ring 1**    | [Ring of Blackrock]                                  |
+| **Ring 2**    | [Pure Elementium Band]                               |
+| **Trinket 1** | [Rejuvenating Gem]                                   |
+| **Trinket 2** | [Shard of the Scale]                                 |
 
 ### Pre-Naxx BIS
 
-Slot | Name
----- | ----
-**Weapon**  | [Scepter of the False Prophet]
-**Offhand** | [Wormscale Blocker]
-**Helm** | [Don Rigoberto's Lost Hat]
-**Neck** | [Amulet of the Fallen God]
-**Shoulders** | [Wild Growth Spaulders]
-**Back** | [Cloak of Clarity]
-**Chest** | [Robes of the Guardian Saint]
-**Bracers** | [Bracelets of Royal Redemption]
-**Gloves** | [Gloves of the Messiah] or [Wasphide Gauntlets]
-**Belt** | [Grasp of the Old God]
-**Pants** | [Salamander Scale Pants]
-**Boots** | [Boots of Pure Thought] or [Shimmering Geta]
-**Ring 1** | [Ring of the Martyr]
-**Ring 2** | [Ring of the Devoured]
-**Trinket 1** | [Rejuvenating Gem]
-**Trinket 2** | [Shard of the Scale]
+| Slot          | Name                                            |
+|---------------|-------------------------------------------------|
+| **Weapon**    | [Scepter of the False Prophet]                  |
+| **Offhand**   | [Wormscale Blocker]                             |
+| **Helm**      | [Don Rigoberto's Lost Hat]                      |
+| **Neck**      | [Amulet of the Fallen God]                      |
+| **Shoulders** | [Wild Growth Spaulders]                         |
+| **Back**      | [Cloak of Clarity]                              |
+| **Chest**     | [Robes of the Guardian Saint]                   |
+| **Bracers**   | [Bracelets of Royal Redemption]                 |
+| **Gloves**    | [Gloves of the Messiah] or [Wasphide Gauntlets] |
+| **Belt**      | [Grasp of the Old God]                          |
+| **Pants**     | [Salamander Scale Pants]                        |
+| **Boots**     | [Boots of Pure Thought] or [Shimmering Geta]    |
+| **Ring 1**    | [Ring of the Martyr]                            |
+| **Ring 2**    | [Ring of the Devoured]                          |
+| **Trinket 1** | [Rejuvenating Gem]                              |
+| **Trinket 2** | [Shard of the Scale]                            |
 
 **Chain Heal Set** - This set is specifically for Chain Healing. The Tier 2 + Tier 2.5 sets together lets you output a ton of healing. The set bonuses are what make this set great, so unless you have 5/5 Tier 2.5 and 3/8 Tier 2, I wouldn't bother wearing the T2.5.
 
-Slot | Name
----- | ----
-**Weapon**  | [Scepter of the False Prophet]
-**Offhand** | [Wormscale Blocker]
-**Helm** | [Stormcaller's Diadem]
-**Neck** | [Amulet of the Fallen God]
-**Shoulders** | [Stormcaller's Pauldrons]
-**Back** | [Cloak of Clarity]
-**Chest** | [Stormcaller's Hauberk]
-**Bracers** | [Bracers of Ten Storms]
-**Gloves** | [Gauntlets of Ten Storms]
-**Belt** | [Belt of Ten Storms]
-**Pants** | [Stormcaller's Leggings]
-**Boots** | [Stormcaller's Footguards]
-**Ring 1** | [Ring of the Martyr]
-**Ring 2** | [Ring of the Devoured]
-**Trinket 1** | [Rejuvenating Gem]
-**Trinket 2** | [Shard of the Scale]
+| Slot          | Name                           |
+|---------------|--------------------------------|
+| **Weapon**    | [Scepter of the False Prophet] |
+| **Offhand**   | [Wormscale Blocker]            |
+| **Helm**      | [Stormcaller's Diadem]         |
+| **Neck**      | [Amulet of the Fallen God]     |
+| **Shoulders** | [Stormcaller's Pauldrons]      |
+| **Back**      | [Cloak of Clarity]             |
+| **Chest**     | [Stormcaller's Hauberk]        |
+| **Bracers**   | [Bracers of Ten Storms]        |
+| **Gloves**    | [Gauntlets of Ten Storms]      |
+| **Belt**      | [Belt of Ten Storms]           |
+| **Pants**     | [Stormcaller's Leggings]       |
+| **Boots**     | [Stormcaller's Footguards]     |
+| **Ring 1**    | [Ring of the Martyr]           |
+| **Ring 2**    | [Ring of the Devoured]         |
+| **Trinket 1** | [Rejuvenating Gem]             |
+| **Trinket 2** | [Shard of the Scale]           |
 
 ### Totem Relic
 [Totem of Sustaining] **is a pre-raid must**. You will use it all the way until AQ40 when you switch it for [Totem of Life]. [Totem of Rebirth] is also a good option. As mentioned before, combining it with the Improved Reincarnation talent is useful when your dying a lot during raid progression.
 
 ### Trinkets
-There are several good trinkets beyond the passive ones I listed. [Scarab Brooch] from AQ40, [Zandalarian Hero Charm] from ZG, and [Natural Alignment Crystal] from BWL are good for pumping out a lot of healing quickly. Some of my highest HPS records I have were thanks to [Natural Alignment Crystal]. Just make sure to swap your trinkets when the cooldowns are running.
+There are several good trinkets beyond the passive ones I listed. [Scarab Brooch] from AQ40, [Zandalarian Hero Charm] from ZG, and [Natural Alignment Crystal] from BWL are good for pumping out a lot of healing quickly. Some of my highest HPS records I had were thanks to [Natural Alignment Crystal]. Just make sure to swap your trinkets when the cooldowns are running.
 
 ## Totems
 
@@ -232,7 +232,7 @@ One of the few advantages Horde has over the Alliance in Vanilla. If you can tim
 ### Wind Totems
 
 #### Windfury
-As mentioned before, **Windfury is the best** and it should always be down if there are melee in your group.
+As mentioned before, **Windfury is the best**, and it should always be down if there are melee in your group.
 
 #### Grounding
 There are some boss mechanics that are affected by Grounding, depending on the server scripting. It is meant to redirect single target spells, so things like Lucifron's Mind Control should be able to be grounded. Often times, it may be more worth it to just have Windfury down.
@@ -252,13 +252,13 @@ Sometimes you'll have 2 shamans in a group and one of you can use Grace while th
 Not all its hyped up to be. If you have the talents for it, Mana Spring provides about 360 mana in total and costs 75 mana. That's not much to be gained unless you have others in your group with mana bars. If you're struggling with mana, it is good to keep down, and unless the people in your group are reaching their buff limit, it wouldn't hurt. A full minute of Mana Spring could potentially mean enough extra mana for 1-2 extra Chain Heals.
 
 #### Mana Tide
-Use it as often as you can. It provides a decent amount of extra mana, and can be pretty helpful in long fights. If you know your mana pool has to last for longer than 5 minutes, make sure to lay it down early in a fight so you have time to cast it again. A typical rotation I like to do is start a boss fight with Mana Spring, and when it expires, switch to Mana Tide, then back to Mana Spring.
+Use it as often as you can. It provides a decent amount of extra mana, and can be pretty helpful in long fights. If you know your mana pool has to last for longer than 5 minutes, make sure to lay it down early in a fight, so you have time to cast it again. A typical rotation I like to do is start a boss fight with Mana Spring, and when it expires, switch to Mana Tide, then back to Mana Spring.
 
 #### Healing Stream
-Your most efficient heal potentially doing ~1500 healing to 5 people for very little mana. "Potentially" being the keyword, however. Very few occasions will all 5 people in your group be taking damage and never will it be the reason for someone living or dying. Although, I think it does more healing per mana than having a Mana Spring totem down, so this is usually my go-to water totem. A bit I like to do to really cheese healing numbers is use a Zandalarian Hero Charm before setting down the Healing Stream. It benefits from your +healing, so you can significantly increase the amount it pulses for by using a trinket. Also something to note, Healing Stream generates its own threat, so it can be used to force caster adds around corners for better positioning. It might also mean it gets destroyed without you realizing it.
+Your most efficient heal potentially doing ~1500 healing to 5 people for very little mana. "Potentially" being the keyword, however. Very few occasions will all 5 people in your group be taking damage and never will it be the reason for someone living or dying. Although, I think it does more healing per mana than having a Mana Spring totem down, so this is usually my go-to water totem. A bit I like to do to really cheese healing numbers is use a Zandalarian Hero Charm before setting down the Healing Stream. It benefits from your +healing, so you can significantly increase the amount it pulses for by using a trinket. Also, something to note, Healing Stream generates its own threat, so it can be used to force caster adds around corners for better positioning. It might also mean it gets destroyed without you realizing it.
 
 #### Fire Resistance
-This is an excellent choice for all of MC and BWL. There is a lot of fire damage from both the trash and bosses in the first two raids. Fire Resistance can be a better choice than Healing Stream because it could potentially save someones life. Resisting 1500 damage from a big fire spell is much more valuable than that same amount done as healing over 60 seconds.
+This is an excellent choice for all of MC and BWL. There is a lot of fire damage from both the trash and bosses in the first two raids. Fire Resistance can be a better choice than Healing Stream because it could potentially save someone's life. Resisting 1500 damage from a big fire spell is much more valuable than that same amount done as healing over 60 seconds.
 
 #### Poison Cleansing
 Great for cleansing a lot of people quickly. It is another great advantage Horde has over Alliance in Vanilla. Just make sure to not "set-and-forget". The pulse of this totem shouldn't be relied on in raids. You should be instantly recasting this totem as soon as a new poison happens. The cleansing will happen a lot quicker and result in having less damage going out to the raid.
@@ -281,21 +281,21 @@ Much of the same strategy as Fire Nova, but it costs a lot more mana. I tend to 
 If for whatever reason you can't have Windfury down, you could use this instead. A good example might be if you are using Nature Resistance for your wind totem on a particular boss. I have yet to run the numbers on if using Flametongue over Windfury is a viable option on a fire vulnerability for Chromaggus. I highly doubt it though.
 
 #### Frost Resistance
-Not many raids have frost damage. Other than in Naxx, you probably wont use this at all.
+Not many raids have frost damage. Other than in Naxx, you probably won't use this at all.
 
 ### Pulse Totems
 Pulse Totems include things like Poison Cleansing, Tremor, and Windfury. Because of the pulse, they are affected by line-of-sight, so always make sure your totems are placed correctly. Another point about pulse totems is that some players "set-and-forget" things like Tremor and Cleansing totems. Get that out of your head! If you see someone feared, cast a new totem. Think of it like casting Decurse or Dispell. Mages and Priests don't rely on spells being auto-cleansed and neither should you.
 
 ### Totem Twisting
-Since Windfury applies a 10 second buff, there is a window of time where your group can have both Windfury and Grace of Air. The basic strategy is to cast Windfury, then immediately Grace of Air, and before WF times out, do the process over again. Totem twisting like this take a lot of time that could be spent casting heals, so it isn't for every occasion, but your melee will love you for it. The rotation I use is `WF + GoA + Chain Heal + Chain Heal`. You might have enough time to get a third Chain Heal in before WF expires, but I tend to stick with 2 because of latency.
+Since Windfury applies a 10-second buff, there is a window of time when your group can have both Windfury and Grace of Air. The basic strategy is to cast Windfury, then immediately Grace of Air, and before WF times out, do the process over again. Totem twisting like this take a lot of time that could be spent casting heals, so it isn't for every occasion, but your melee will love you for it. The rotation I use is `WF + GoA + Chain Heal + Chain Heal`. You might have enough time to get a third Chain Heal in before WF expires, but I tend to stick with 2 because of latency.
 
 ## Heals
 
 ### Chain Heal
-As mentioned before, Chain Heal is your bread and butter in raids. No other healer can do as much AoE healing as Shamans can. Priests and Druids can out-heal an Shaman in a single-target healing scenario, but Shamans excel at AoE healing. Rank 1 Chain Heal is also a particularly efficient heal. Without chaining to anyone, it is still about as efficient as a Rank 4 Lesser Healing Wave. With the Tier 2 3/8 piece bonus, Chain Heal can be your most efficient heal. So spam the crap out of that Rank 1 Chain Heal. I make sure to have all 3 ranks of Chain Heal available and bound to different keys. It makes it much easier to switch between the different ranks as the raid is taking more or less damage than normal.
+As mentioned before, Chain Heal is your bread and butter in raids. No other healer can do as much AoE healing as Shamans can. Priests and Druids can out-heal a Shaman in a single-target healing scenario, but Shamans excel at AoE healing. Rank 1 Chain Heal is also a particularly efficient heal. Without chaining to anyone, it is still about as efficient as a Rank 4 Lesser Healing Wave. With the Tier 2 3/8 piece bonus, Chain Heal can be your most efficient heal. So spam the crap out of that Rank 1 Chain Heal. I make sure to have all 3 ranks of Chain Heal available and bound to different keys. It makes it much easier to switch between the different ranks as the raid is taking more or less damage than normal.
 
 ### Lesser Healing Wave
-Decent single-target heal. It has a quick cast time so you are less susceptible to your heals being 100% overhealing. The only relic available to you pre-raid, [Totem of Sustaining], also improves LHW. Rank 1 LHW also has the lowest mana cost while still providing decent healing. Max Rank LWH is also the best option for keeping someone alive that is taking a lot of damage. It may not be the highest HPS, but a tank is more likely to die while you are casting a slow heal.
+Decent single-target heal. It has a quick cast time, so you are less susceptible to your heals being 100% overhealing. The only relic available to you pre-raid [Totem of Sustaining], also improves LHW. Rank 1 LHW also has the lowest mana cost while still providing decent healing. Max Rank LWH is also the best option for keeping someone alive that is taking a lot of damage. It may not be the highest HPS, but a tank is more likely to die while you are casting a slow heal.
 
 ### Healing Wave
 If you are specced into Healing Way, Rank 5 Healing Wave is the MOST efficient heal you have. You can last for a long time only casting that. Rank 1 is useful for pre-stacking Healing Way before a fight starts as well. I usually save Max Rank Healing Wave for Nature's Swiftness. I don't ever sit and cast a Max Rank. The major downside of Healing Wave is that it suffers from a long cast time. In my experience, someone else has already healed my target before I get the cast off. Because of this, I've always stuck with Chain Heal for multi-target healing and LHW for single-target healing.
